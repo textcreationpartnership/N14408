@@ -121,8 +121,9 @@
    <text xml:lang="eng">
       <body>
          <div type="treaty">
-            <pb facs="tcp:018252_0000_0FA5BFDB1B6AA188"/>
-            <pb facs="tcp:018252_0001_0FA5BFDBCCFF3988" rendition="simple:additions"/>
+            <pb facs="unknown:018252_0000_0FA5BFDB1B6AA188"/>
+            <pb facs="unknown:018252_0001_0FA5BFDBCCFF3988"
+                rendition="simple:additions"/>
             <head>NEW-YORK, November 26. Last Sunday night arrived the Lord Hyde Packet, in 47 days from Falmouth. Fro. the English papers brought we have extracted the following important ADVICES: LONDON, September 30. THE Definitive Treaty, Between GREAT-BRITAIN and the UNITED STATES of America, sign<g ref="char:EOLhyphen"/>ed at Paris the 3d day of September, 1783.</head>
             <opener>In the Name of the most holy and undivided Trinity.</opener>
             <p>IT having pleased the Divine Providence to dis<g ref="char:EOLhyphen"/>pose the hearts of the most serene and most po<g ref="char:EOLhyphen"/>tent prince George the third, by the grace of God, king of Great-Britain, France and Ireland, defender of the faith, duke of Brunswick and Lu<gap reason="illegible: indecipherable" extent="1 letter">
